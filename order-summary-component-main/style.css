@@ -65,7 +65,7 @@ body {
   margin-right: 15px;
 }
 #card .card-content .card-plan .card-plan-text h2 {
-  font: size 16px;
+  font-size: 16px;
   color: var(--dark-blue);
   font-weight: 900;
 }
