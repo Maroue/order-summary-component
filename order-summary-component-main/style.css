@@ -101,7 +101,8 @@ body {
 /*
 Mobile Responsive
 */
-@media (max-width: 500px) {
+@media (max-width: 31.25em) { /* 500px / 16 = 31.25em */
+ {
   body {
     background: url(./images/pattern-background-mobile.svg) no-repeat top
       center/contain;
